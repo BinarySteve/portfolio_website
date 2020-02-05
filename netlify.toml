@@ -1,5 +1,11 @@
 [[redirects]]
-from = "/resume/*"
-to = "https://stevenchavezresume.netlify.com/:splat"
+from = "https://stevenchavezwebsite.netlify.com/*"
+to = "https://stevenchavez.me/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://stevenchavezresume.netlify.com"
+to = "/resume"
 status = 200
 force = true
