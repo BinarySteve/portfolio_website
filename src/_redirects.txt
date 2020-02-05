@@ -1,2 +1,0 @@
-/src/resume.html /resume 301
-/resume https://stevenchavez.me/src/resume.html 200
