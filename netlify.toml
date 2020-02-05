@@ -1,0 +1,5 @@
+[[redirects]]
+from = "https://stevenchavezresume.netlify.com/*"
+to = "https://stevenchavez.me/resume"
+status = 301
+force = true
